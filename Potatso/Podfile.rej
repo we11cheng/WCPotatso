@@ -1,0 +1,15 @@
+diff a/Podfile b/Podfile	(rejected hunks)
+@@ -43,7 +43,12 @@ target "Potatso" do
+     pod 'PKHUD', '~> 4.0'
+ 
+     pod 'Aspects', :path => "./Library/Aspects/"
+-    pod 'Cartography'
++    
++    
++    pod 'Cartography', :git => 'https://github.com/corujautx/Cartography.git'
++    
++    
++    
+     pod 'AsyncSwift'
+     pod 'SwiftColor'
+     pod 'Appirater'
