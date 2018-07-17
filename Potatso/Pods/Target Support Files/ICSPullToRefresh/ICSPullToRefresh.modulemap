@@ -1,0 +1,6 @@
+framework module ICSPullToRefresh {
+  umbrella header "ICSPullToRefresh-umbrella.h"
+
+  export *
+  module * { export * }
+}

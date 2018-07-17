@@ -1,0 +1,22 @@
+{
+  "name": "Aspects",
+  "version": "0.0.1",
+  "summary": "Aspects",
+  "description": "Aspects swift.",
+  "homepage": "http://icodesign.me",
+  "license": "MIT",
+  "authors": {
+    "iCodesign": "leimagnet@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": [
+    "Aspects",
+    "Aspects/**/*.{h,m,swift}"
+  ],
+  "exclude_files": "Aspects/Exclude"
+}

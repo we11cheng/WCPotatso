@@ -1,0 +1,6 @@
+framework module Pods_PotatsoLibrary {
+  umbrella header "Pods-PotatsoLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

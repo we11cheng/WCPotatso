@@ -1,0 +1,6 @@
+framework module PSOperations {
+  umbrella header "PSOperations-umbrella.h"
+
+  export *
+  module * { export * }
+}

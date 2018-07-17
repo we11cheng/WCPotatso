@@ -1,0 +1,12 @@
+ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/ICSMainFramework" "${PODS_CONFIGURATION_BUILD_DIR}/KeychainAccess" "${PODS_CONFIGURATION_BUILD_DIR}/KissXML" "${PODS_CONFIGURATION_BUILD_DIR}/MMWormhole" "${PODS_CONFIGURATION_BUILD_DIR}/Realm" "${PODS_CONFIGURATION_BUILD_DIR}/RealmSwift"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(SDKROOT)/usr/include/libxml2
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+OTHER_CFLAGS = $(inherited) -iquote "${PODS_CONFIGURATION_BUILD_DIR}/ICSMainFramework/ICSMainFramework.framework/Headers" -iquote "${PODS_CONFIGURATION_BUILD_DIR}/KeychainAccess/KeychainAccess.framework/Headers" -iquote "${PODS_CONFIGURATION_BUILD_DIR}/KissXML/KissXML.framework/Headers" -iquote "${PODS_CONFIGURATION_BUILD_DIR}/MMWormhole/MMWormhole.framework/Headers" -iquote "${PODS_CONFIGURATION_BUILD_DIR}/Realm/Realm.framework/Headers" -iquote "${PODS_CONFIGURATION_BUILD_DIR}/RealmSwift/RealmSwift.framework/Headers"
+OTHER_LDFLAGS = $(inherited) -ObjC -framework "ICSMainFramework" -framework "KeychainAccess" -framework "KissXML" -framework "MMWormhole" -framework "Realm" -framework "RealmSwift"
+OTHER_SWIFT_FLAGS = $(inherited) "-D" "COCOAPODS"
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods

@@ -1,0 +1,6 @@
+framework module ICDMaterialActivityIndicatorView {
+  umbrella header "ICDMaterialActivityIndicatorView-umbrella.h"
+
+  export *
+  module * { export * }
+}

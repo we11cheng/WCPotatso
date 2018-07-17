@@ -1,0 +1,6 @@
+framework module LogglyLogger_CocoaLumberjack {
+  umbrella header "LogglyLogger-CocoaLumberjack-umbrella.h"
+
+  export *
+  module * { export * }
+}

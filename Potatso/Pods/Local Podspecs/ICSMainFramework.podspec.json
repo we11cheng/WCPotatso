@@ -1,0 +1,22 @@
+{
+  "name": "ICSMainFramework",
+  "version": "0.0.1",
+  "summary": "ICSMainFramework",
+  "description": "ICSMainFramework.",
+  "homepage": "http://icodesign.me",
+  "license": "MIT",
+  "authors": {
+    "iCodesign": "leimagnet@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": [
+    "ICSMainFramework",
+    "ICSMainFramework/**/*.{h,m,swift}"
+  ],
+  "exclude_files": "ICSMainFramework/Exclude"
+}
