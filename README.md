@@ -20,4 +20,5 @@ pod update --verbose --no-repo-update
 
 ![](https://github.com/we11cheng/WCImageHost/raw/master/WX20180717-171534.png)
 
+### 重新```pod update --verbose --no-repo-update```上传了pods文件夹。竟然没有报git上传文件大小限制(神奇)。最新提交节点可直接运行。已亲自测试过。正确的节点，可以FQ。如果发现不行。欢迎来怼~~首页有qq邮箱。
 ### iOS Widget Extensions证书配置 参考<https://github.com/we11cheng/WCStudy/blob/master/iOS%20Widget%20Extensions%E8%AF%81%E4%B9%A6%E9%85%8D%E7%BD%AE.md>
