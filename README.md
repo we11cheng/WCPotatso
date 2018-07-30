@@ -15,6 +15,6 @@
 ### 2017-7-17 最新更新，配置了Person VPN & Network Extensions
 ![](https://github.com/we11cheng/WCImageHost/raw/master/WX20180717-171534.png)
 
-### 无须```pod update --verbose --no-repo-update```，首页有qq(微信同号)。学习交流可以一起。抱有其他目的就算了。
+### pods文件夹虽然上传了，但是有缺失，遇到问题请至工程目录自行```pod update --verbose --no-repo-update```就能解决。个人主页有qq(微信同号)。可以一起学习交流。抱有其他目的就算了。
 ### iOS Widget Extensions证书配置 参考<https://github.com/we11cheng/WCStudy/blob/master/iOS%20Widget%20Extensions%E8%AF%81%E4%B9%A6%E9%85%8D%E7%BD%AE.md>
 
