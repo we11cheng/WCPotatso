@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+    {
+      "name" : "YAML",
+      "hash" : "1564d0d2b03f56bc9ddb75e65066410697012c8ca4b5278f82c6120c9223c217"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "089561f15e6e328e01126ac7d563f340536a6892",
+  "iOS" : [
+    {
+      "name" : "YAML",
+      "hash" : "fe77cf082dddd0e9ed84abdb7bb21a7b096407ea182fe6cdcdadb04283bf8f33"
+    }
+  ]
+}

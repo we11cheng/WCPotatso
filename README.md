@@ -15,7 +15,73 @@
 ### 2017-7-17 最新更新，配置了Person VPN & Network Extensions
 ![](https://github.com/we11cheng/WCImageHost/raw/master/WX20180717-171534.png)
 
-### pods文件夹虽然上传了，但是有缺失，遇到问题请至工程目录自行```pod update --verbose --no-repo-update```就能解决。个人主页有qq(微信同号)。可以一起学习交流。抱有其他目的就算了。
+### 无需```pod update --verbose --no-repo-update```，clone之后直接运行。个人主页有qq(微信同号)。可以一起学习交流。抱有其他目的就算了。
 ### iOS Widget Extensions证书配置 参考<https://github.com/we11cheng/WCStudy/blob/master/iOS%20Widget%20Extensions%E8%AF%81%E4%B9%A6%E9%85%8D%E7%BD%AE.md>
-### 希望大家遵守开源精神，勿作他用，
+### 希望大家遵守开源精神，勿作他用。
+### 默认的gitignore，已经去除了。代码可直接使用。
+```
+.DS_Store
+
+# C extensions
+*.so
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.idea/
+
+
+# iOS
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+xcshareddata/**
+Potatso.xcworkspace/xcshareddata/
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# you should judge for yourself, the pros and cons are mentioned at:
+# http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
+#
+#Pods/
+# Add Podfile.lock for future maintenance reason
+#Podfile.lock
+
+# Carthage
+#Carthage/Build
+
+
+# fastlane
+#fastlane
+
+Gemfile.lock
+
+#Confidential/
+#Confidential.h
+
+```
+
+
 
