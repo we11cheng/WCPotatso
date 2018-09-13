@@ -6,6 +6,9 @@
 ### 修改下自己的appgroup的id（这一步很重要）
 
 ![](http://p2bzzkn05.bkt.clouddn.com/18-2-23/7255964.jpg)
+### group id如图所示
+![](https://github.com/we11cheng/WCImageHost/raw/master/WX20180912-174728.png)
+
 ### 最终效果
 ![](http://p2bzzkn05.bkt.clouddn.com/18-2-8/70190654.jpg)
 
