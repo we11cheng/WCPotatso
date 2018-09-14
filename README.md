@@ -22,6 +22,7 @@
 ### iOS Widget Extensions证书配置 参考<https://github.com/we11cheng/WCStudy/blob/master/iOS%20Widget%20Extensions%E8%AF%81%E4%B9%A6%E9%85%8D%E7%BD%AE.md>
 ### 希望大家遵守开源精神，勿作他用。
 ### 默认的gitignore，已经去除了。代码可直接使用。
+### 2018-9-14 根据<https://github.com/we11cheng/iShadowsocksR>,fork大佬的项目，编译成功,百度网盘地址链接: <https://pan.baidu.com/s/1rX6e14jRY4xmM1NT5r9tPw> 密码: r3pv,需要可以自取。
 ```
 .DS_Store
 
