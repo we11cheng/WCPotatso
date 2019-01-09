@@ -5,14 +5,17 @@
 ### 运行报错issues参考链接<https://github.com/haxpor/Potatso/issues/41>
 ### 修改下自己的appgroup的id（这一步很重要）
 
-![](http://p2bzzkn05.bkt.clouddn.com/18-2-23/7255964.jpg)
+![](https://github.com/we11cheng/WCImageHost/raw/master/WX20190109-121447.png)
+
 ### group id如图所示
 ![](https://github.com/we11cheng/WCImageHost/raw/master/WX20180912-174728.png)
 
-### 最终效果
-![](http://p2bzzkn05.bkt.clouddn.com/18-2-8/70190654.jpg)
+### 最终效果，亲测可用，不能用你来捶我！
+![](https://github.com/we11cheng/WCImageHost/raw/master/WX20190109-122522.png)
 
-### 本人Xcode运行截图，Xcode版本：Version 9.2 (9C40b)
+![](https://github.com/we11cheng/WCImageHost/raw/master/Screen%20Shot%202019-01-09%20at%2012.35.09%20PM.png)
+
+### 本人Xcode运行截图，Xcode版本：Version 9.2 (9C40b)，不是9.2版本可能会有其他错误。建议使用9.2版本。
 ![](https://github.com/we11cheng/WCImageHost/raw/master/WX20180723-100756.png)
 
 ### 2017-7-17 最新更新，配置了Person VPN & Network Extensions
