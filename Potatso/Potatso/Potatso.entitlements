@@ -9,13 +9,9 @@
 		<string>dns-proxy</string>
 		<string>packet-tunnel-provider</string>
 	</array>
-	<key>com.apple.developer.networking.vpn.api</key>
-	<array>
-		<string>allow-vpn</string>
-	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.obizsoft</string>
+		<string>group.com.obizsoftad.potatso</string>
 	</array>
 </dict>
 </plist>

@@ -13,7 +13,8 @@
 + (NSString *) sharedGroupIdentifier {
     // fixed issue 13: if value isn't fixed, but use value from [[NSBundle mainBundle] bundleIdentifier], occasionally the app will fail to connect. So we fixed it via harded-code value as users dont have to customize this value anyway.
     //return @"group.io.wasin.potatso";
-    return @"group.obizsoft";
+    //return @"group.obizsoft";
+    return @"group.com.obizsoftad.potatso";
 }
 
 + (NSURL *)sharedUrl {

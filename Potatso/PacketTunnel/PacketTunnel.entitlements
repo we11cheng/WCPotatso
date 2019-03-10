@@ -10,11 +10,7 @@
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.obizsoft</string>
-	</array>
-	<key>keychain-access-groups</key>
-	<array>
-		<string>$(AppIdentifierPrefix)io.wasin.potatso.tunnel</string>
+		<string>group.com.obizsoftad.potatso</string>
 	</array>
 </dict>
 </plist>
