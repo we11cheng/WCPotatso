@@ -1,4 +1,5 @@
-## iOS Potatso源码（配置下自己的开发证书就能编译版本）,对你有帮助的话欢迎star
+## iOS Potatso源码（配置下自己的开发证书就能编译版本）,
+### 写在前面，建议使用Xcode9.2版本。其他版本可能会有swift语法问题。
 ### 本着开源的精神。希望大家不要用做其他目的。得知有人想要发布到到appstore时，我很失望。。
 ### 参考链接 <https://github.com/JonyFang/Potatso>
 ### 参考链接 <https://github.com/haxpor/Potatso>
