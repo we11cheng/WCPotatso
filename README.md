@@ -49,3 +49,6 @@
 
 ### 2019-3-10 尝试了企业打包。实在需要企业包的可以找我要哈（不想公开下载）。
 ### 需要免费节点的可以参考另个一个项目readme <https://github.com/we11cheng/WCShadowrocket>
+### 分享一个自己搭建的搬瓦工CN2节点，流量有限，想要长期稳定使用的，欢迎大佬一起续费使用
+
+![](https://raw.githubusercontent.com/we11cheng/picBed/master/20200115180434.png)
