@@ -52,4 +52,4 @@
 ### 分享一个自己搭建的搬瓦工CN2节点(Vmess)，流量有限，且用且珍惜。
 #### 2020-6-28更新
 
-![](https://raw.githubusercontent.com/we11cheng/picBed/master/20200628111334.png)
+<img src="https://raw.githubusercontent.com/we11cheng/picBed/master/20200628111334.png" alt="图片调整大小" width="250" height="250" align="bottom" />
