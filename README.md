@@ -1,6 +1,6 @@
 ## iOS Potatso源码（配置下自己的开发证书就能编译版本）,
 ### 写在前面，建议使用Xcode9.2版本。其他版本可能会有swift语法问题。
-### 本着开源的精神。希望大家不要用做其他目的。得知有人想要发布到到appstore时，我很失望。。
+### 本着开源的精神。希望大家不要用做其他目的。
 ### 参考链接 <https://github.com/JonyFang/Potatso>
 ### 参考链接 <https://github.com/haxpor/Potatso>
 ### 运行报错issues参考链接<https://github.com/haxpor/Potatso/issues/41>
@@ -49,6 +49,7 @@
 
 ### 2019-3-10 尝试了企业打包。实在需要企业包的可以找我要哈（不想公开下载）。
 ### 需要免费节点的可以参考另个一个项目readme <https://github.com/we11cheng/WCShadowrocket>
-### 分享一个自己搭建的搬瓦工CN2节点，流量有限，想要长期稳定使用的，欢迎大佬一起续费使用
+### 分享一个自己搭建的搬瓦工CN2节点(Vmess)，流量有限，且用且珍惜。
+#### 2020-6-28更新
 
-![](https://raw.githubusercontent.com/we11cheng/picBed/master/20200115180434.png)
+![](https://raw.githubusercontent.com/we11cheng/picBed/master/20200628111334.png)
