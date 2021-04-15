@@ -54,7 +54,7 @@
 
 二维码
 
-<img src="https://gitee.com/he11oworld/picBed/raw/master/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%9B%BE%E7%89%87_4%E6%9C%8815%E6%97%A513%E6%97%B653%E5%88%8642%E7%A7%92.png" alt="图片调整大小" width="250" height="250" align="bottom" />
+![](https://gitee.com/he11oworld/picBed/raw/master/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%9B%BE%E7%89%87_4%E6%9C%8815%E6%97%A513%E6%97%B653%E5%88%8642%E7%A7%92.png)
 
 文本
 
@@ -64,6 +64,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYXp3c3hlZGNAMTk4LjE4MS4zNS4xNDM6MTAwMDg#%23
 
 分享一个自己搭建的外卖领券小程序，欢迎大家学习交流
 
-<img src="https://gitee.com/he11oworld/picBed/raw/master/20210410212801.png" alt="图片调整大小" width="250" height="250" align="bottom" />
+![](https://gitee.com/he11oworld/picBed/raw/master/20210410212801.png)
 
 
