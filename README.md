@@ -60,7 +60,6 @@
 
 ```
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYXp3c3hlZGNAMTk4LjE4MS4zNS4xNDM6MTAwMDg#%23%E5%B0%8F%E7%A8%8B%E5%BA%8F:%E6%AF%8F%E6%97%A5%E5%A4%96%E5%8D%96%E8%81%94%E7%9B%9F
-
 ```
 
 分享一个自己搭建的外卖领券小程序，欢迎大家学习交流
